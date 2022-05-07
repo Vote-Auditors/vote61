@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 시장
+title: 국회의원
 ---
 
 #### **분당갑**
