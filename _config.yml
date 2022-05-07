@@ -1,10 +1,10 @@
 # basic options
 title: 지방선거 6.1
 author: Vote-Auditors
-email: doggzone@gmail.com
+email: 
 description: 지방선거 2022년 6월 1일
 twitter_username:
-github_username: Doggzone
+github_username: Vote-Auditors
 
 # Build settings
 markdown: kramdown
