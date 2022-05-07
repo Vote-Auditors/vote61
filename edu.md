@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 구의원
+title: 교육감
 ---
 
 #### **서울시교육감**
